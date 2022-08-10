@@ -68,3 +68,11 @@ body {
   li {
     margin: 16px 0;
   }
+
+
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
